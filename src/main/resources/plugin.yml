@@ -1,0 +1,8 @@
+name: HPluginMessanger
+version: '${project.version}'
+main: it.heron4gf.hpluginmessanger.bukkit.BukkitHPluginMessanger
+api-version: 1.19
+description: "Communicate easily between servers or plugins using Datagram Sockets"
+commands:
+  hpluginmessanger:
+  hpm:

@@ -1,0 +1,8 @@
+servername: "spawn" # used to send and receive packets
+socket_pool:
+  assign: # socket port assigned on this instance, address is localhost
+    start: 4000
+    end: 5000
+  search: # socket port to bind with other servers, address is localhost
+    start: 4000
+    end: 5000

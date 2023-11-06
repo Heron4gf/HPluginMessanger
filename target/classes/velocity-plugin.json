@@ -1,0 +1,1 @@
+{"id":"hpluginmessanger","name":"HPluginMessanger","version":"1.0","description":"Communicate easily between servers or plugins using Datagram Sockets","authors":["Heron4gf"],"dependencies":[],"main":"it.heron4gf.hpluginmessanger.velocity.VelocityHPluginMessanger"}

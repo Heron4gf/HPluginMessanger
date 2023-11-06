@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HPluginMessanger">
+    <output-path>$PROJECT_DIR$/out/artifacts/HPluginMessanger</output-path>
+    <root id="archive" name="HPluginMessanger.jar">
+      <element id="module-output" name="HPluginMessanger" />
+    </root>
+  </artifact>
+</component>
